@@ -122,7 +122,7 @@ body {
     height:630px;
     position: absolute;
     left: 5%;
-    top: -13%;
+    top: -9%;
 }
 #img1>img:hover{
     cursor: pointer;
@@ -467,7 +467,7 @@ body {
 }
 #pg5 img{
    position: absolute;
-   top: 10%;
+   top: 19%;
    right: 5%;
 
     height: 70%;
@@ -526,7 +526,7 @@ body {
     line-height: 10vmax;
     width: 85%;
     height: 90%;
-    left: 2%;
+    left: 4%;
     /* background-color: aqua; */
 }
 #pg8 img{
